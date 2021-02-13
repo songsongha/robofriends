@@ -1,7 +1,7 @@
 import React from 'react'; // view library, core of the package that does DOM manipulation for us
 import ReactDOM from 'react-dom'; // used for website, native will be for mobile phones
 import './index.css'; 
-import App from './App'
+import App from './container/App'
 import 'tachyons';
 
 
